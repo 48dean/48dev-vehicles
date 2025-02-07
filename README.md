@@ -1,4 +1,4 @@
-# 48dev-vehicles
+# infinity-vehicles
 A basic vehicle scripts package for your server
 
 # What's included?
