@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Infinity Development'
-description 'Vehicle Deletion Script'
-version '1.0.0'
+author 'Dean'
+description ''
+version ''
 lua54 'yes'
 
 shared_script '@ox_lib/init.lua'
